@@ -1,0 +1,5 @@
+Configure miss: .git
+Configure miss: libselinux
+Configure miss: add_key
+Configure miss: keyctl
+Configure miss: llseek
