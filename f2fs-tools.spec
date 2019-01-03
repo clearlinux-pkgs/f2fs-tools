@@ -4,7 +4,7 @@
 #
 Name     : f2fs-tools
 Version  : 1.11.0
-Release  : 1
+Release  : 2
 URL      : https://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git/snapshot/f2fs-tools-1.11.0.tar.gz
 Source0  : https://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git/snapshot/f2fs-tools-1.11.0.tar.gz
 Summary  : No detailed summary available
