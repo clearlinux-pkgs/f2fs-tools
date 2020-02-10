@@ -1,5 +1,7 @@
-Configure miss: .git
 Configure miss: libselinux
+Configure miss: attr/xattr.h usability
+Configure miss: attr/xattr.h presence
+Configure miss: attr/xattr.h
 Configure miss: add_key
 Configure miss: keyctl
 Configure miss: llseek
