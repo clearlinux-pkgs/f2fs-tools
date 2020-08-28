@@ -1,5 +1,5 @@
 PKG_NAME := f2fs-tools
-URL = 
+URL = https://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git/snapshot/f2fs-tools-1.14.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common

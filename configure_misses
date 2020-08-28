@@ -5,3 +5,4 @@ Configure miss: attr/xattr.h
 Configure miss: add_key
 Configure miss: keyctl
 Configure miss: llseek
+Configure miss: struct blk_zone.capacity
